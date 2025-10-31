@@ -101,6 +101,8 @@ A scalable social platform with **real-time threading, nested comments, and comm
 
 ## Let's Connect
 
+Looking for backend/distributed systems roles at MAANG and top-tier companies.
+
 [![Gmail](https://img.shields.io/badge/Gmail-%23D14836?style=flat&logo=gmail&logoColor=white)](mailto:youremail@gmail.com)
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com)
 [![X](https://img.shields.io/badge/X-%231DA1F2?style=flat&logo=x&logoColor=white)](https://x.com/yourusername)
