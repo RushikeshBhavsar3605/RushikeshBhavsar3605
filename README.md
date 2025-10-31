@@ -1,16 +1,115 @@
-## Hi there 👋
+# Hey, I'm Rushikesh Bhavsar 👋
 
-<!--
-**RushikeshBhavsar3605/RushikeshBhavsar3605** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-Stack Engineer | System Design Enthusiast | Competitive Programmer
 
-Here are some ideas to get you started:
+I build **scalable, production-grade applications** with a focus on real-time systems and clean architecture. Currently exploring **Go** and system design patterns for backend services.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## What I Do
+
+⚙️ **Real-Time Systems** – Socket.IO, WebSockets, event-driven architectures
+🎯 **Full-Stack Development** – Next.js, TypeScript, React, Node.js, MongoDB
+🧠 **Competitive Programming** – LeetCode: 1848 rating | 662+ problems solved
+📐 **System Design** – Building scalable, fault-tolerant architectures
+
+---
+
+## Tech Stack
+
+**Languages:** TypeScript, JavaScript, Go (learning), C++, Python
+
+**Frontend:** Next.js 14, React 18, Tailwind CSS, Zod, React Query, Zustand
+
+**Backend:** Node.js, Express, Socket.IO, REST APIs, Authentication (Auth.js, Clerk)
+
+**Databases:** MongoDB, Prisma ORM, Mongoose
+
+**Tools & Deployment:** Docker, Vercel, Git, GitHub
+
+---
+
+## Featured Projects
+
+### Bloks – Real-Time Document Editor
+**Tech:** Next.js | TypeScript | Socket.IO | MongoDB | Prisma | Docker | Stripe
+
+A production-ready collaborative document editor with **real-time conflict resolution algorithms** and enterprise authentication.
+
+**Key Achievements:**
+- Implemented Socket.IO with conflict-free concurrent editing using operational transformation principles
+- Sub-second response times across nested document structures using MongoDB text indexing
+- Enterprise-grade auth: NextAuth.js + OAuth 2.0 (Google, GitHub) + role-based access control
+- Docker containerization & Vercel deployment
+- Integrated Stripe payment processing
+
+[Live](javascript:void(0)) · [Source Code](javascript:void(0))
+
+---
+
+### Gather – Real-Time Communication Platform
+**Tech:** Next.js | TypeScript | Socket.IO | Clerk | MongoDB | LiveKit
+
+A Discord-like platform featuring **instant messaging and video/audio conferencing** with role-based permissions.
+
+**Key Achievements:**
+- Real-time messaging via Socket.IO with optimized database queries
+- LiveKit integration for HD video/audio conferencing
+- Comprehensive permission system (Admin/Moderator/Guest roles)
+- File uploads with UploadThing, data caching with React Query
+- Type-safe validation with Zod
+
+[Live](javascript:void(0)) · [Source Code](javascript:void(0))
+
+---
+
+### Weave – Social Media Platform
+**Tech:** Next.js | TypeScript | Clerk | MongoDB | Socket.IO
+
+A scalable social platform with **real-time threading, nested comments, and community management**.
+
+**Key Achievements:**
+- Threaded comment system with nested hierarchy and real-time updates
+- Server-side actions for CRUD operations with pagination & search
+- Webhook handling and optimized Mongoose queries
+- Responsive UI with activity feeds and user onboarding
+
+[Live](javascript:void(0)) · [Source Code](javascript:void(0))
+
+---
+
+## Competitive Programming
+
+**LeetCode:** 1848 rating | 662+ problems solved | Top 5.7% globally (Rank: 44,895/781,679)
+
+**Contest Highlights:**
+- Best weekly contest rank: 735 (Weekly Contest 465)
+- Focus: Dynamic Programming, System Design, Graph Algorithms
+
+---
+
+## Currently Exploring
+
+🔍 **System Design** – Scalability patterns, distributed consensus, load balancing
+🐹 **Go** – Building backend services with simplicity and performance
+📚 **Advanced Algorithms** – Interview-level problem-solving
+
+---
+
+## Let's Connect
+
+📧 **Email:** [your-email@example.com](mailto:your-email@example.com)
+
+🔗 **LinkedIn:** [linkedin.com/in/rushikesh-bhavsar](https://linkedin.com/in/rushikesh-bhavsar)
+
+𝕏 **Twitter:** [@rushikesh_dev](https://twitter.com/rushikesh_dev)
+
+💻 **LeetCode:** [leetcode.com/rushikesh](https://leetcode.com/rushikesh)
+
+---
+
+## Philosophy
+
+> "Understand the business goal first, identify the core problem, then architect the solution. Clean systems start with clear thinking."
+
+Always shipping → Always learning → Always improving
