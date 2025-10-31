@@ -9,8 +9,11 @@ I build **scalable, production-grade applications** with a focus on real-time sy
 ## What I Do
 
 ⚙️ **Real-Time Systems** – Socket.IO, WebSockets, event-driven architectures
+
 🎯 **Full-Stack Development** – Next.js, TypeScript, React, Node.js, MongoDB
+
 🧠 **Competitive Programming** – LeetCode: 1848 rating | 662+ problems solved
+
 📐 **System Design** – Building scalable, fault-tolerant architectures
 
 ---
