@@ -101,13 +101,18 @@ A scalable social platform with **real-time threading, nested comments, and comm
 
 ## Let's Connect
 
-📧 **Email:** [your-email@example.com](mailto:your-email@example.com)
+[![Gmail](https://img.shields.io/badge/Gmail-%23D14836?style=flat&logo=gmail&logoColor=white)](mailto:youremail@gmail.com)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com)
+[![X](https://img.shields.io/badge/X-%231DA1F2?style=flat&logo=x&logoColor=white)](https://x.com/yourusername)
+[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/yourusername)
 
-🔗 **LinkedIn:** [linkedin.com/in/rushikesh-bhavsar](https://linkedin.com/in/rushikesh-bhavsar)
+**Email:** [your-email@example.com](mailto:your-email@example.com)
 
-𝕏 **Twitter:** [@rushikesh_dev](https://twitter.com/rushikesh_dev)
+**LinkedIn:** [linkedin.com/in/rushikesh-bhavsar](https://linkedin.com/in/rushikesh-bhavsar)
 
-💻 **LeetCode:** [leetcode.com/rushikesh](https://leetcode.com/rushikesh)
+**Twitter:** [@rushikesh_dev](https://twitter.com/rushikesh_dev)
+
+**LeetCode:** [leetcode.com/rushikesh](https://leetcode.com/rushikesh)
 
 ---
 
