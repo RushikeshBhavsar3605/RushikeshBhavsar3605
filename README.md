@@ -64,6 +64,6 @@ A low-latency chat system built for high-throughput message delivery.
 ## Let's Connect
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/rushikesh-bhavsar-swe/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/rushikesh-bhavsar/)
-[![Portfolio](https://custom-icon-badges.demolab.com/badge/Portfolio-000000?style=flat&logo=globe&logoColor=white)](https://rushikesh-bhavsar.vercel.app/)
+[![Portfolio](https://custom-icon-badges.demolab.com/badge/Portfolio-10B981?style=flat&logo=globe&logoColor=white)](https://rushikesh-bhavsar.vercel.app/)
 
 > "Understand the system constraints first, identify the network bottlenecks, then architect the solution."
