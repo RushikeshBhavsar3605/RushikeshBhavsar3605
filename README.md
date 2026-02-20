@@ -1,97 +1,69 @@
 # Hey, I'm Rushikesh Bhavsar 👋
 
-Full-Stack Engineer | System Design Enthusiast | Competitive Programmer
+**Backend Systems Engineer | LeetCode Knight | Distributed Systems**
 
-I build **scalable, production-grade applications** with a focus on real-time systems and clean architecture. Currently exploring **Go** and system design patterns for backend services.
+I build resilient, high-throughput backend services and real-time systems. My focus is on event-driven microservices, concurrency, and fault-tolerant architectures using **Go, gRPC, and Kubernetes**.
 
-## What I Do
-
-- ⚙️ **Real-Time Systems** – Socket.IO, WebSockets, event-driven architectures
-- 🎯 **Full-Stack Development** – Next.js, TypeScript, React, Node.js, MongoDB
-- 🧠 **Competitive Programming** – LeetCode: 1848 rating | 662+ problems solved
-- 📐 **System Design** – Building scalable, fault-tolerant architectures
+## What I Architect
+- ⚙️ **Distributed Systems** – Microservices, Message Queues (RabbitMQ), RPC frameworks
+- ⚡ **Real-Time Infrastructure** – WebSockets, event pipelines, low-latency streaming
+- 🧠 **Algorithmic Problem Solving** – Top 4.6% globally on LeetCode
+- 📊 **Observability** – Distributed tracing (OpenTelemetry, Jaeger), system metrics
 
 ## Tech Stack
+- **Core Languages:** Go, C++, Java, TypeScript, SQL
+- **Backend & Systems:** gRPC, Protocol Buffers, RabbitMQ, Docker, Kubernetes
+- **Web & Databases:** Node.js, Next.js, MongoDB (Indexing), Prisma, REST APIs
+- **Observability:** OpenTelemetry, Jaeger
 
-- **Languages:** TypeScript, JavaScript, Go (learning), C++, Python
-- **Frontend:** Next.js 14, React 18, Tailwind CSS, Zod, React Query, Zustand
-- **Backend:** Node.js, Express, Socket.IO, REST APIs, Authentication (Auth.js, Clerk)
-- **Databases:** MongoDB, Prisma ORM, Mongoose
-- **Tools & Deployment:** Docker, Vercel, Git, GitHub
+## Featured Architecture
 
-## Featured Projects
+### 1. 🚗 RideSync – Cloud-Native Ride-Sharing Platform
+**Tech:** Go | gRPC | RabbitMQ | Kubernetes (GKE) | Docker | Jaeger
 
-### Bloks – Real-Time Document Editor
-**Tech:** Next.js | TypeScript | Socket.IO | MongoDB | Prisma | Docker | Stripe
+Architected an event-driven microservices platform handling high-performance inter-service communication.
+- Engineered a fault-tolerant message pipeline across 8+ distributed queues using RabbitMQ.
+- Verified zero message loss under node failure via a 3-retry Dead Letter Queue (DLQ) mechanism.
+- Implemented end-to-end distributed tracing using OpenTelemetry and custom AMQP context propagation.
 
-A production-ready collaborative document editor with **real-time conflict resolution algorithms** and enterprise authentication.
+[View Architecture & Source](https://github.com/RushikeshBhavsar3605/RideSync) 
 
-**Key Achievements:**
-- Implemented Socket.IO with conflict-free concurrent editing using operational transformation principles
-- Sub-second response times across nested document structures using MongoDB text indexing
-- Enterprise-grade auth: NextAuth.js + OAuth 2.0 (Google, GitHub) + role-based access control
-- Docker containerization & Vercel deployment
-- Integrated Stripe payment processing
+### 2. 📝 Bloks – Real-Time Collaborative Editor
+**Tech:** Next.js | TypeScript | Socket.IO | Docker | MongoDB
 
-[Live](javascript:void(0)) · [Source Code](javascript:void(0))
+A production-ready collaborative editor sustaining **100 edits/sec** with p90 latency <350ms.
+- Reduced database writes by ≥95% by formally proving and implementing a debounced persistence algorithm (O(1) per 2s window).
+- Architected a 4-layer RBAC enforced consistently at WebSocket, API, and UI layers.
+- Load-tested with a custom harness to simulate target concurrent edit rates.
 
-### Gather – Real-Time Communication Platform
-**Tech:** Next.js | TypeScript | Socket.IO | Clerk | MongoDB | LiveKit
+[Live Demo](https://bloks.onrender.com/) · [Source Code](https://github.com/RushikeshBhavsar3605/Bloks)
 
-A Discord-like platform featuring **instant messaging and video/audio conferencing** with role-based permissions.
+### 3. 💬 Converge – Real-Time Messaging Infrastructure
+**Tech:** Next.js | TypeScript | Socket.IO | MongoDB | Prisma
 
-**Key Achievements:**
-- Real-time messaging via Socket.IO with optimized database queries
-- LiveKit integration for HD video/audio conferencing
-- Comprehensive permission system (Admin/Moderator/Guest roles)
-- File uploads with UploadThing, data caching with React Query
-- Type-safe validation with Zod
+A low-latency chat system built for high-throughput message delivery.
+- Achieved low-latency delivery via 10-message batching and cursor-based pagination.
+- Designed permission-aware Server→Channel DM architecture with 3-layer RBAC to prevent data leakage.
+- Optimized query performance using indexed MongoDB schemas for scalable authorization boundaries.
 
-[Live](javascript:void(0)) · [Source Code](javascript:void(0))
+[Live Demo](https://converge-chat.onrender.com/) · [Source Code](https://github.com/RushikeshBhavsar3605/Converge)
 
-### Weave – Social Media Platform
-**Tech:** Next.js | TypeScript | Clerk | MongoDB | Socket.IO
+## Proof of Work (Competitive Programming)
 
-A scalable social platform with **real-time threading, nested comments, and community management**.
+🏆 **LeetCode Knight Badge** (Rating: 1881)
+- **Global Rank:** 37,818 / 809,286 (Top 4.67%)
+- **Volume:** 750+ problems solved with a 350+ day active streak
+- **Contest Peak:** Biweekly Contest #465 Global Rank 735 (All-India Rank 263)
 
-**Key Achievements:**
-- Threaded comment system with nested hierarchy and real-time updates
-- Server-side actions for CRUD operations with pagination & search
-- Webhook handling and optimized Mongoose queries
-- Responsive UI with activity feeds and user onboarding
+📂 **[Explore my Algorithmic Problem Solving Vault](https://github.com/RushikeshBhavsar3605/Algorithmic-Problem-Solving)** *(Link your DSA repo here)*
 
-[Live](javascript:void(0)) · [Source Code](javascript:void(0))
-
-## Competitive Programming
-
-**LeetCode:** 1848 rating | 662+ problems solved | Top 5.7% globally (Rank: 44,895/781,679)
-
-**Contest Highlights:**
-- Best weekly contest rank: 735 (Weekly Contest 465)
-- Focus: Dynamic Programming, System Design, Graph Algorithms
-
-## Currently Exploring
-
-- 🔍 **System Design** – Scalability patterns, distributed consensus, load balancing
-- 🐹 **Go** – Building backend services with simplicity and performance
-- 📚 **Advanced Algorithms** – Interview-level problem-solving
+## Currently Deep-Diving Into
+- **Distributed Consensus:** Exploring Raft implementation details.
+- **Database Internals:** Storage engines, B-Trees, and write-ahead logging (WAL).
 
 ## Let's Connect
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/rushikesh-bhavsar-swe/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/rushikesh-bhavsar/)
+[![Portfolio](https://custom-icon-badges.demolab.com/badge/Portfolio-000000?style=flat&logo=globe&logoColor=white)](https://rushikesh-bhavsar.vercel.app/)
 
-Looking for backend/distributed systems roles at MAANG and top-tier companies.
-
-[![Gmail](https://img.shields.io/badge/Gmail-%23D14836?style=flat&logo=gmail&logoColor=white)](mailto:youremail@gmail.com)
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com)
-[![X](https://img.shields.io/badge/X-%231DA1F2?style=flat&logo=x&logoColor=white)](https://x.com/yourusername)
-[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/yourusername)
-
-- **Email:** [your-email@example.com](mailto:your-email@example.com)
-- **LinkedIn:** [linkedin.com/in/rushikesh-bhavsar](https://linkedin.com/in/rushikesh-bhavsar)
-- **Twitter:** [@rushikesh_dev](https://twitter.com/rushikesh_dev)
-- **LeetCode:** [leetcode.com/rushikesh](https://leetcode.com/rushikesh)
-
-## Philosophy
-
-> "Understand the business goal first, identify the core problem, then architect the solution. Clean systems start with clear thinking."
-
-Always shipping → Always learning → Always improving
+> "Understand the system constraints first, identify the network bottlenecks, then architect the solution."
