@@ -55,7 +55,7 @@ A low-latency chat system built for high-throughput message delivery.
 - **Volume:** 750+ problems solved with a 350+ day active streak
 - **Contest Peak:** Biweekly Contest #465 Global Rank 735 (All-India Rank 263)
 
-📂 **[Explore my Algorithmic Problem Solving Vault](https://github.com/RushikeshBhavsar3605/Algorithmic-Problem-Solving)** *(Link your DSA repo here)*
+📂 **[Explore my Algorithmic Problem Solving Vault](https://github.com/RushikeshBhavsar3605/Algorithmic-Problem-Solving)**
 
 ## Currently Deep-Diving Into
 - **Distributed Consensus:** Exploring Raft implementation details.
