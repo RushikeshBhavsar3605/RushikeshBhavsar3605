@@ -67,3 +67,4 @@ A low-latency chat system built for high-throughput message delivery.
 [![Portfolio](https://custom-icon-badges.demolab.com/badge/Portfolio-10B981?style=flat&logo=globe&logoColor=white)](https://rushikesh-bhavsar.vercel.app/)
 
 > "Understand the system constraints first, identify the network bottlenecks, then architect the solution."
+![trace](https://rushikesh-bhavsar.vercel.app/api/github-visit)
