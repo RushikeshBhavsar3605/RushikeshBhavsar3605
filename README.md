@@ -26,7 +26,7 @@ Architected an event-driven microservices platform handling high-performance int
 - Verified zero message loss under node failure via a 3-retry Dead Letter Queue (DLQ) mechanism.
 - Implemented end-to-end distributed tracing using OpenTelemetry and custom AMQP context propagation.
 
-[View Architecture & Source](https://github.com/RushikeshBhavsar3605/RideSync) 
+[Live Demo](https://ridesync-app.onrender.com/) · [Source Code](https://github.com/RushikeshBhavsar3605/RideSync)
 
 ### 2. 📝 Bloks – Real-Time Collaborative Editor
 **Tech:** Next.js | TypeScript | Socket.IO | Docker | MongoDB
