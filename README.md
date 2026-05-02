@@ -51,9 +51,9 @@ A low-latency chat system built for high-throughput message delivery.
 ## Proof of Work (Competitive Programming)
 
 🏆 **LeetCode Knight Badge** (Rating: 1881)
-- **Global Rank:** 37,818 / 809,286 (Top 4.67%)
-- **Volume:** 750+ problems solved with a 350+ day active streak
-- **Contest Peak:** Biweekly Contest #465 Global Rank 735 (All-India Rank 263)
+- **Global Rank:** 29,328 / 874,510 (Top 4.67%)
+- **Volume:** 850+ problems solved with a 450+ day active streak
+- **Contest Peak:** Weekly Contest #499 Global Rank 758 (All-India Rank 257)
 
 📂 **[Explore my Algorithmic Problem Solving Vault](https://github.com/RushikeshBhavsar3605/Algorithmic-Problem-Solving)**
 
