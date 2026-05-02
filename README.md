@@ -50,7 +50,7 @@ A low-latency chat system built for high-throughput message delivery.
 
 ## Proof of Work (Competitive Programming)
 
-🏆 **LeetCode Knight Badge** (Rating: 1881)
+🏆 **LeetCode Knight Badge** (Rating: 1940)
 - **Global Rank:** 29,328 / 874,510 (Top 4.67%)
 - **Volume:** 850+ problems solved with a 450+ day active streak
 - **Contest Peak:** Weekly Contest #499 Global Rank 758 (All-India Rank 257)
