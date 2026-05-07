@@ -7,7 +7,7 @@ I build resilient, high-throughput backend services and real-time systems. My fo
 ## What I Architect
 - ⚙️ **Distributed Systems** – Microservices, Message Queues (RabbitMQ), RPC frameworks
 - ⚡ **Real-Time Infrastructure** – WebSockets, event pipelines, low-latency streaming
-- 🧠 **Algorithmic Problem Solving** – Top 4.6% globally on LeetCode
+- 🧠 **Algorithmic Problem Solving** – Top 3.4% globally on LeetCode
 - 📊 **Observability** – Distributed tracing (OpenTelemetry, Jaeger), system metrics
 
 ## Tech Stack
@@ -51,7 +51,7 @@ A low-latency chat system built for high-throughput message delivery.
 ## Proof of Work (Competitive Programming)
 
 🏆 **LeetCode Knight Badge** (Rating: 1940)
-- **Global Rank:** 29,328 / 874,510 (Top 4.67%)
+- **Global Rank:** 29,328 / 874,510 (Top 3.4%)
 - **Volume:** 850+ problems solved with a 450+ day active streak
 - **Contest Peak:** Weekly Contest #499 Global Rank 758 (All-India Rank 257)
 
